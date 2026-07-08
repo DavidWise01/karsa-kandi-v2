@@ -4,6 +4,6 @@ slug  : karsa-kandi-v2
 seal  : a8caaebe2a70129e448d284d30f980af570d4a5e1f2525dbf9c586fd6729b161
 prev  : 208ea932b9c5288bf6faafdc21337611b5d8059de9b545735ebc231f537c12bf
 link  : eab5752016088d2a348c56d120a5713600221f55ebcd30309c686724daf53923
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
